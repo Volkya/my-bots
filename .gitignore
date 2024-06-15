@@ -1,0 +1,7 @@
+discord-js/.env
+discord-py/.env
+telegram-py/.env
+
+discord-js/node_modules
+discord-py/node_modules
+telegram-py/node_modules
